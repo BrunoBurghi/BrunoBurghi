@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.  
 Atualmente curso Ciência da Computação e atuo como estagiário na área de Arquitetura de Soluções.
@@ -15,33 +15,33 @@ Tenho experiência com desenvolvimento, banco de dados e modelagem de sistemas, 
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
-### 👨‍💻 Linguagens
+###  Linguagens
 ![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-333?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c)
 
-### 🗄️ Banco de Dados
+###  Banco de Dados
 ![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=postgresql)
 
-### ⚙️ Desenvolvimento
+###  Desenvolvimento
 ![POO](https://img.shields.io/badge/POO-333?style=for-the-badge)
 ![UML](https://img.shields.io/badge/UML-333?style=for-the-badge)
 
-### 🔧 Ferramentas
+###  Ferramentas
 ![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
 
 ---
 
-## 📜 Certificações
+##  Certificações
 
-📌 AWS cloud Pratictioner
+ AWS cloud Pratictioner
 
 ---
 
-## 🌍 Idiomas
+##  Idiomas
 
 - 🇧🇷 Português: Nativo  
 - 🇺🇸 Inglês: Avançado  
@@ -49,7 +49,7 @@ Tenho experiência com desenvolvimento, banco de dados e modelagem de sistemas, 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBurghi&show_icons=true&theme=dark)
 
