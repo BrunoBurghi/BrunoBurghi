@@ -51,12 +51,6 @@ Tenho experiência com desenvolvimento, banco de dados e modelagem de sistemas, 
 
 ---
 
-##  GitHub Stats
-
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBurghi&show_icons=true&theme=dark)
-
----
-
 ## 📫 Contato
 
 📧 Email: brunoburghi@gmail.com  
