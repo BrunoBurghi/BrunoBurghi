@@ -8,7 +8,7 @@
 
 ##  Sobre mim
 
-Sou apaixonado por tecnologia, desenvolvimento de software, coud e resolução de problemas.  
+Sou apaixonado por tecnologia, desenvolvimento de software, cloud e resolução de problemas.  
 Atualmente curso Ciência da Computação e atuo como estagiário na área de Arquitetura de Soluções com foco em dados, ia e computação em nuvem.
 
 Tenho experiência com desenvolvimento, banco de dados e modelagem de sistemas, aws cloud, microsoft e azure. Sempre buscando evoluir minhas habilidades e aprender novas tecnologias.
