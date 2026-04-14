@@ -21,6 +21,10 @@ Tenho experiência com desenvolvimento, banco de dados e modelagem de sistemas, 
 ![AWS](https://img.shields.io/badge/AWS-333?style=for-the-badge&logo=amazonaws)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+### 🤖 Data & IA
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-333?style=for-the-badge)
+![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-333?style=for-the-badge)
+
 ###  Linguagens
 ![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-333?style=for-the-badge&logo=java)
@@ -36,13 +40,6 @@ Tenho experiência com desenvolvimento, banco de dados e modelagem de sistemas, 
 ###  Ferramentas
 ![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
-
----
-
-##  Certificações
-
- AWS cloud Pratictioner
- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
