@@ -8,10 +8,10 @@
 
 ##  Sobre mim
 
-Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.  
-Atualmente curso Ciência da Computação e atuo como estagiário na área de Arquitetura de Soluções.
+Sou apaixonado por tecnologia, desenvolvimento de software, coud e resolução de problemas.  
+Atualmente curso Ciência da Computação e atuo como estagiário na área de Arquitetura de Soluções com foco em dados, ia e computação em nuvem.
 
-Tenho experiência com desenvolvimento, banco de dados e modelagem de sistemas, sempre buscando evoluir minhas habilidades e aprender novas tecnologias.
+Tenho experiência com desenvolvimento, banco de dados e modelagem de sistemas, aws cloud, microsoft e azure. Sempre buscando evoluir minhas habilidades e aprender novas tecnologias.
 
 ---
 
@@ -55,4 +55,3 @@ Tenho experiência com desenvolvimento, banco de dados e modelagem de sistemas, 
 
 📧 Email: brunoburghi@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/bruno-burghi-99338a185/  
-💻 GitHub: https://github.com/BrunoBurghi  
