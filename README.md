@@ -1,4 +1,4 @@
-## Hi there 👋
+## Estudante de Ciência da Computação, foco em java, python e tecnologias Cloud
 
 <!--
 **BrunoBurghi/BrunoBurghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
